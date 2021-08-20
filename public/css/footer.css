@@ -1,0 +1,15 @@
+footer i{
+font-size: 2em;
+margin: 10px;
+color: var(--celeste);
+}
+footer p, footer span, h4{
+    color: var(--gris-oscuro);
+}
+footer .section .article{
+ text-align: center;
+}
+footer section article{
+    padding: 20px;
+}
+

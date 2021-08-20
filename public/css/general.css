@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root{
+    --amarillo: #EAC926;
+    --azul: #03264C;
+    --celeste:  #1259c3;
+    --gris-oscuro: #666;
+    --gris-claro:  #ebebeb;
+    --verde: #39b54a;
+    --tipografia: 'Roboto', sans-serif;
+    --cuerpo: 12px;
+    --titulares: 24px;
+    --precios: 18px;
+    --descuentos-descripciones: 16px;
+}
+*{
+    font-family: var(--tipografia);
+}
+* img{
+    width: 100%;
+    height: 100%;
+}

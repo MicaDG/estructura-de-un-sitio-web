@@ -1,0 +1,33 @@
+header{
+    background-color: var(--amarillo);
+    font-size: var(--cuerpo);
+}
+header img{
+    width: 40%;
+    height: 40%;
+}
+form action{
+    display: block;
+}
+div{
+    text-align: center;
+    padding: 12px;
+}
+header section{
+    margin: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.burger-menu{
+    margin:auto;
+    background-color: var(--celeste);
+    padding: 7px;
+    width: 15px;
+    color:white;
+    border-radius: 5px;
+}

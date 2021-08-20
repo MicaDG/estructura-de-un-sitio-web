@@ -1,0 +1,9 @@
+h2{
+    font-size: var(--titulares);
+}
+.precios{
+    font-size: var(--precios);    
+}
+h3, .descuentos{
+    font-size: var(--descuentos-descripciones);    
+}
