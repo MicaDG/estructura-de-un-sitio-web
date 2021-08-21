@@ -1,14 +1,17 @@
 h2{
     font-size: var(--titulares);
     text-align: left;
+    color: var(--gris-oscuro);
 }
 .precios{
     font-size: var(--precios);    
 }
-h3, .descuentos{
-    font-size: var(--descuentos-descripciones);    
+h3{
+    font-size: var(--descuentos-descripciones);
+    color: var(--gris-oscuro);   
 }
 .descuentos{
+    font-size: var(--descuentos-descripciones);
     color: var(--verde);
 }
 main{
