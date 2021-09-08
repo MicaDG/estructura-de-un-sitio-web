@@ -9,9 +9,13 @@ header img{
 form action{
     display: block;
 }
-div{
+header div{
     text-align: center;
     padding: 12px;
+    padding-bottom: 20px;
+}
+header div:last-child{
+    padding: 0px;
     padding-bottom: 20px;
 }
 header section{
@@ -25,10 +29,11 @@ a{
     color:black;
 }
 .burger-menu{
-    margin:auto;
+    text-align: center;
+}
+.burger-menu i{
     background-color: var(--celeste);
     padding: 7px;
-    width: 15px;
     color:white;
     border-radius: 5px;
 }

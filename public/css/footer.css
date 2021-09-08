@@ -1,3 +1,6 @@
+footer{
+    background-color: white;
+}
 footer i{
 font-size: 2em;
 margin: 10px;
@@ -12,4 +15,3 @@ footer .section .article{
 footer section article{
     padding: 20px;
 }
-

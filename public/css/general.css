@@ -14,7 +14,13 @@
     --descuentos-descripciones: 16px;
 }
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: var(--tipografia);
+}
+body{
+  background-color: var(--gris-claro);
 }
 * img{
     width: 100%;
@@ -27,7 +33,7 @@
         display: none;
     }
     header{
-        padding: 20px;
+        padding: 10px;
     }
 }
 
